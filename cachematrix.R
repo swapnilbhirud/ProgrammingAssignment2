@@ -2,7 +2,7 @@
 
 ## The makeCacheMatrix creates a 'vector' (a list, acually) that aids in setting
 ## up the elements of the matrix and also its inverse
-print("Hello World!")
+
 makeCacheMatrix <- function(x = matrix()) {
           inv <- NULL
           set <- function(y) {
